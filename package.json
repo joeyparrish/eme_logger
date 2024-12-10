@@ -16,5 +16,5 @@
     "build": "npm ci && gulp",
     "test": "jasmine-browser-runner runSpecs"
   },
-  "version": "4.0.2"
+  "version": "4.0.3"
 }
