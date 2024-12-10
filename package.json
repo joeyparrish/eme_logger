@@ -1,4 +1,6 @@
 {
+  "name": "eme-logger",
+  "private": true,
   "devDependencies": {
     "chromedriver": "^122.0.5",
     "gulp": "^5.0.0",
