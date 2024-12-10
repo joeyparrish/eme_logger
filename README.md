@@ -1,6 +1,5 @@
 # The EME Call and Event Logger Extension #
 
-
 The EME Logger extension logs all Encrypted Media Extension (EME) calls and
 Events. The log can be viewed in the javascript console, a separate browser page
 or a downloaded file.
