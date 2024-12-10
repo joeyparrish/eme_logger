@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.2](https://github.com/joeyparrish/eme_logger/compare/v4.0.1...v4.0.2) (2024-12-10)
+
+
+### Bug Fixes
+
+* dummy ([#12](https://github.com/joeyparrish/eme_logger/issues/12)) ([88090d9](https://github.com/joeyparrish/eme_logger/commit/88090d9387e0d84bf35694555d78465d7e91d947))
+
 ## [4.0.1](https://github.com/joeyparrish/eme_logger/compare/v4.0.0...v4.0.1) (2024-12-10)
 
 
